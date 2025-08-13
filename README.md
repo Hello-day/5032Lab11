@@ -1,6 +1,5 @@
-# NoMash-Library
-
-This template should help get you started developing with Vue 3 in Vite.
+# SEE THIS ON GITHUB PAGES!
+LINK: https://hello-day.github.io/5032Lab11/
 
 ## Recommended IDE Setup
 

@@ -20,10 +20,8 @@
           <router-link to="/WeatherCheck" class="nav-link" :class="{ active: $route.path === '/WeatherCheck' }">Get Weather</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/CountBookAPI" class="nav-link" :class="{ active: $route.path === '/CountBookAPI' }">Count Book API</router-link>
+          <router-link to="/CountBookAPI" class="nav-link" :class="{ active: $route.path === '/CountBookAPI' }">📚 Book Counter System</router-link>
         </li>
-        <li class="nav-item"><a href="#" class="nav-link">About</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Contact us</a></li>
       </ul>
     </header>
   </div>
